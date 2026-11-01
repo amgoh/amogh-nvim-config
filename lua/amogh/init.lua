@@ -1,0 +1,6 @@
+require("amogh.base")
+require("amogh.maps")
+require("amogh.packer")
+require("amogh.lsp")
+require("amogh.highlights")
+require("amogh.macos")
